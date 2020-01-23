@@ -1,9 +1,0 @@
-B:\Coden\c++\Reflector Keygen\bin\Debug\Reflector Keygen.exe.config
-B:\Coden\c++\Reflector Keygen\bin\Debug\Reflector Keygen.exe
-B:\Coden\c++\Reflector Keygen\bin\Debug\Reflector Keygen.pdb
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector Keygen.csprojAssemblyReference.cache
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector_Keygen.MainForm.resources
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector_Keygen.Properties.Resources.resources
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector Keygen.csproj.GenerateResource.cache
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector Keygen.exe
-B:\Coden\c++\Reflector Keygen\obj\Debug\Reflector Keygen.pdb

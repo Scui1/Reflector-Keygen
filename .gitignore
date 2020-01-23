@@ -1,0 +1,11 @@
+# Build results
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+TempPE/
+.vs/
+
